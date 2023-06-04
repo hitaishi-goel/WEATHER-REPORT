@@ -6,7 +6,7 @@ You can view the weather report of any city by using this CLI app which lets you
 
 1. Time
 2. Temperature
-3. Atmosphereic Pressure
+3. Atmospheric Pressure
 4. Humidity
 5. Description of the weather of that city .
 
