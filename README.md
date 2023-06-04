@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-You can view the weather report of any city by using this CLI app which lets you to view the 
+You can view the weather report of any city by using this CLI app which lets you to view the following:
 
 1. Time
 2. Temperature
